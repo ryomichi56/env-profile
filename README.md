@@ -1,2 +1,5 @@
 # env-profile
-My Environment Profiles
+
+自分の自分の自分のための設定.
+
+おそらく誰の参考にもならない自分仕様.
